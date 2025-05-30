@@ -1,5 +1,5 @@
 let student = {
-  name: "Ashwani",
+  name: "Alice",
   age: 22,
   course: "Computer Science"
 };
